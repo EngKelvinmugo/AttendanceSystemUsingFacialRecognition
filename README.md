@@ -29,7 +29,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#points-to-remember-while-testing-the-app">Points to remember while testing the app</a></li>
+        <li><a href="#points-to-remember-while-testing-the-app">Points to remember while testing the appliaction</a></li>
         <li><a href="#before-installation">Before Installation</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
